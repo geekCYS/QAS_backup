@@ -23,3 +23,7 @@ numbers adders including carry-up of digits with any technique you want to use. 
 example, 1100+1010=10110. And, try to reduce the error of the adder on the real 
 device, IBM Quantum Systems, as much as possible. 
 Additional challenge: Try to make the UI of a quantum calculator.
+
+
+##Team Member
+Sumin Jin | nineil91
