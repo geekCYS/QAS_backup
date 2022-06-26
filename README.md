@@ -1,4 +1,4 @@
-#QAS backup git file
+# QAS backup git file
 
 ### 양자정보경진대회 IBM Chellenge Topic
 
