@@ -25,5 +25,5 @@ device, IBM Quantum Systems, as much as possible.
 Additional challenge: Try to make the UI of a quantum calculator.
 
 
-##Team Member
+## Team Member
 Sumin Jin | nineil91
