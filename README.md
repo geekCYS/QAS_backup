@@ -26,8 +26,8 @@ Additional challenge: Try to make the UI of a quantum calculator.
 
 
 ## Team Member
-Seunghoon Choi | 
-Youshin Chung | @geekCYS
-Hyejin Yoon | @ktrnyoon
-Se-bin Kin | @nirii00
-Sumin Jin | @nineil91
+##### Seunghoon Choi | 
+##### Youshin Chung | @geekCYS
+##### Hyejin Yoon | @ktrnyoon
+##### Se-bin Kin | @nirii00
+##### Sumin Jin | @nineil91
