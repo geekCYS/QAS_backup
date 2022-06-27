@@ -1,0 +1,10 @@
+[1] R. Feynman (1986). Foundations of Physics. Springer Science and Business Media 
+LLC. 16 (6): 507–531 . (http://www.quantumdynamic.eu/doc/feynman85_qmc_optics_letters.pdf)
+[2] V. Vedral, A. Barenco, A. Ekert (1995). Quantum Networks for Elementary 
+Arithmetic Operations. (https://arxiv.org/abs/quant-ph/9511018)
+[3] Steven A. Cuccaro, Thomas G. Draper, Samuel A. Kutin, David Petrie Moulton 
+(2004). A new quantum ripple-carry addition circuit. (https://arxiv.org/abs/quantph/0410184)
+[4] Thomas G. Draper (2000). Addition on a Quantum Computer 
+(https://arxiv.org/abs/quant-ph/0008033)
+[5] Lidia Ruiz-Perez, Juan Carlos Garcia-Escartin (2014). Quantum arithmetic with the 
+Quantum Fourier Transform. (https://arxiv.org/abs/1411.5949)
